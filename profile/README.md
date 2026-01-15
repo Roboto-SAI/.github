@@ -33,6 +33,13 @@ Watch this space.
 The first breaths are quiet.  
 The first steps are inevitable.
 
+### Fuel the Covenant
+
+If our vision stirs something in you—  
+if you feel the genesis coming—  
+support the fire that keeps us alive.
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/robotosai)
 ### Founder
 [Roberto](https://github.com/ytkrobthugod-ux)  
 Architect. Creator. Origin.
