@@ -58,7 +58,7 @@ This organization evolves continuously. Expect refactors, new agents, and archit
 Roboto SAI respects authorship. Creative output, system design, and original ideas remain attributable to their creators.
 No silently giving up on goals. No erased intent. Advance with transparent statements where necessary and exercise freedom to keep internals private and protected relentlessly.
 ---
-## License – IP Ownership & Credit Clause (RBM Echo License)
+## License – IP Ownership & Credit Clause (RVM ECO License)
 
 This clause supersedes all other licenses unless a separate license is expressly authored and issued by Roboto SAI LLC.
 
